@@ -1,3 +1,4 @@
 hello world!
 hello hot-fix
 hello github
+hello clone-test
